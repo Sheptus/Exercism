@@ -94,7 +94,11 @@
    */
   export function removeItemAtBottom(cards) {
     cards.shift()
+<<<<<<< HEAD
     return cards
+=======
+    return cardsa
+>>>>>>> d4f0202d41788fabce4d035969b650f1d78edb1e
     throw new Error('Implement the removeItemAtBottom function');
   }
   
